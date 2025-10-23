@@ -22,7 +22,7 @@ In this SQL task, I worked on the `travellers` table from my `travel_agency` dat
   - Travellerss travelling to Bali destination or Maldives destination with budget more than 85000 rupees.
   - Travellers containing gmail as their email.
   - Names starting with 'A'.
-  - Travellerss within a specific age range.
+  - Travellers within a specific age range.
 
 - **Sorting Data:**  
   Used `ORDER BY` in both ascending and descending order to organize results meaningfully.
